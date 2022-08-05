@@ -1,0 +1,15 @@
+D:\IT\Лекция1\Examples001\bin\Debug\net6.0\Examples001.exe
+D:\IT\Лекция1\Examples001\bin\Debug\net6.0\Examples001.deps.json
+D:\IT\Лекция1\Examples001\bin\Debug\net6.0\Examples001.runtimeconfig.json
+D:\IT\Лекция1\Examples001\bin\Debug\net6.0\Examples001.dll
+D:\IT\Лекция1\Examples001\bin\Debug\net6.0\Examples001.pdb
+D:\IT\Лекция1\Examples001\obj\Debug\net6.0\Examples001.csproj.AssemblyReference.cache
+D:\IT\Лекция1\Examples001\obj\Debug\net6.0\Examples001.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Лекция1\Examples001\obj\Debug\net6.0\Examples001.AssemblyInfoInputs.cache
+D:\IT\Лекция1\Examples001\obj\Debug\net6.0\Examples001.AssemblyInfo.cs
+D:\IT\Лекция1\Examples001\obj\Debug\net6.0\Examples001.csproj.CoreCompileInputs.cache
+D:\IT\Лекция1\Examples001\obj\Debug\net6.0\Examples001.dll
+D:\IT\Лекция1\Examples001\obj\Debug\net6.0\refint\Examples001.dll
+D:\IT\Лекция1\Examples001\obj\Debug\net6.0\Examples001.pdb
+D:\IT\Лекция1\Examples001\obj\Debug\net6.0\Examples001.genruntimeconfig.cache
+D:\IT\Лекция1\Examples001\obj\Debug\net6.0\ref\Examples001.dll
